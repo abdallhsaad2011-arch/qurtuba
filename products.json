@@ -1,14 +1,1 @@
-[
-  {
-    "id": "1",
-    "name": "الأمير الصغير",
-    "category": "كتاب",
-    "price": 95,
-    "offerPrice": null,
-    "description": "رواية فلسفية خالدة",
-    "details": ["المؤلف: أنطوان دو سانت إكزوبيري"],
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400",
-    "views": 0,
-    "sales": 0
-  }
-]
+[]
